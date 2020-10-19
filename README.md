@@ -13,7 +13,7 @@ Click [Karta Dharta](https://bit.ly/2FuRGXG) to add the bot to your sever.
 
 | Commands  | Description |
 | ------------- | ------------- |
-| ^meme  | Posts meme every 5 minutes automatically.  |
+| ^automeme  | Posts meme every 5 minutes automatically.  |
 | ^play and ^stop  | Plays Music and Stops it. Use YouTube link to play music |
 | ^covid  |Gives you global updates of COVID-19. You can also add a country name to for specific information (Ex : ^covid india)  |
 | ^profile  | Show the Experience in your Discord and points system is global. if same bot is on another discord server points will be add. |
